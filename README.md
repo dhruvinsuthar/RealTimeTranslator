@@ -27,8 +27,8 @@ A powerful real-time speech-to-speech translation system that listens to your vo
 
 ### Step 1: Clone or Download
 ```bash
-git clone <your-repo-url>
-cd "Gen ai translate"
+git clone https://github.com/dhruvinsuthar/RealTimeTranslator.git
+cd RealTimeTranslator
 ```
 
 ### Step 2: Install Dependencies
