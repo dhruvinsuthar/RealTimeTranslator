@@ -2,6 +2,10 @@
 
 A powerful real-time speech-to-speech translation system that listens to your voice, translates it to another language, and speaks it out loud. Built with Python and supports multiple languages.
 
+## 🚀 **Truly Continuous Translation - Never Stops Listening!**
+
+**Unlike traditional translators that stop and wait**, our system uses **background audio recording** to continuously capture your speech in small chunks (2-5 seconds). While one chunk is being translated and spoken, the system is **already recording the next chunk** - ensuring **zero audio loss** and natural, flowing conversations without interruptions!
+
 ## 🌟 Features
 
 - 🎤 **Real-time speech recognition** using Google Speech Recognition
@@ -240,7 +244,7 @@ This project is open source and available for educational and personal use.
 This project is built and maintained by:
 
 - **Dhruvin Suthar** - [@dhruvinsuthar](https://github.com/dhruvinsuthar)
-- **Prem Singh** - [@Prem4modsing](https://github.com/Prem4modsing)
+- **Prem Modsing** - [@Prem4modsing](https://github.com/Prem4modsing)
 
 Built with ❤️ for breaking down language barriers
 
