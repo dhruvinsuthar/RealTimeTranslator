@@ -1,0 +1,15 @@
+# Core Speech Recognition
+SpeechRecognition==3.10.0
+PyAudio==0.2.14
+
+# Translation
+googletrans==4.0.0rc1
+
+# Text-to-Speech
+gTTS==2.5.0
+
+# Audio Playback
+pygame==2.5.2
+
+# Additional dependencies
+pyobjc==10.1 ; sys_platform == 'darwin'
